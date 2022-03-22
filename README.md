@@ -17,6 +17,8 @@
 2. Search for the word you need (On the left side of the word, you will see the searches)
 3. Have fun!
 
+Note: If you want to use it automatically, you can simply download my automation script [here](https://github.com/Lyzev/HigherLowerGameHack).
+
 ## Bugs and Suggestions
 Bug reports and suggestions should be made in this repo's [issue tracker](https://github.com/Lyzev/HigherLowerGameAnswers/issues) using the templates provided. Please provide as much information as you can to best help us understand your issue and give a better chance of it being resolved.
 
