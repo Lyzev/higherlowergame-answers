@@ -3,7 +3,7 @@
 <p align="center">All answers for the game Higher Lower.</p>
 
 <div align="center">
-    <a href="https://discord.gg/5UmsQP4MFH"><img src="https://img.shields.io/discord/610120595765723137?logo=discord" alt="Discord"/></a>
+    <a href="https://lyzev.github.io/discord/"><img src="https://img.shields.io/discord/610120595765723137?logo=discord" alt="Discord"/></a>
     <br><br>
     <img src="https://img.shields.io/github/last-commit/Lyzev/HigherLowerGameAnswers" alt="GitHub last commit"/>
     <img src="https://img.shields.io/github/commit-activity/w/Lyzev/HigherLowerGameAnswers" alt="GitHub commit activity"/>
